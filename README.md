@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm [Mahesh Chaure]!
 
 Welcome to my GitHub profile! I'm a passionate [Your Role, e.g., "Software Engineer", "Data Scientist"] who loves to work on innovative and impactful projects.
 
